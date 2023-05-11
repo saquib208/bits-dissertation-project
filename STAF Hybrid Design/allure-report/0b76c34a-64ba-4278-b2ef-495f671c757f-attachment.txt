@@ -1,0 +1,4 @@
+[32mINFO    [0m Utility.customLogger:test_invalidLogin.py:18 *************** Test_006 Verifying Login Page Test *****************
+[32mINFO    [0m Utility.customLogger:test_invalidLogin.py:19 ****Started Login page title test ****
+[32mINFO    [0m Utility.customLogger:test_invalidLogin.py:21 ****Opening URL****
+[32mINFO    [0m Utility.customLogger:test_invalidLogin.py:24 **** Home Login title test passed ****

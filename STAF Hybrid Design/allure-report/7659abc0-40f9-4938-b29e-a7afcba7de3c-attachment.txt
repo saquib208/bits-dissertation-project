@@ -1,0 +1,15 @@
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:19 ***********TC_002 Verifying Data Driven Login Test***********
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:21 ****Started Login Test****
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:32 Username-->>Admin
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:33 Password-->>admin123
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:41 ****Login test passed ****
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:32 Username-->>test123
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:33 Password-->>adm
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:61 **** TC passed ****
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:32 Username-->>qatest
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:33 Password-->>test
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:61 **** TC passed ****
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:32 Username-->>admin123
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:33 Password-->>admin
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:61 **** TC passed ****
+[32mINFO    [0m Utility.customLogger:test_Login_Data_Driven.py:66 ******* DDT Login test passed **********

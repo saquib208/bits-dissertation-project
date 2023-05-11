@@ -1,0 +1,4 @@
+[32mINFO    [0m Utility.customLogger:test_HomePageTitle.py:19 *************** Test_001 Verifying Home Page Test *****************
+[32mINFO    [0m Utility.customLogger:test_HomePageTitle.py:20 ****Started Home page title test ****
+[32mINFO    [0m Utility.customLogger:test_HomePageTitle.py:22 ****Opening URL****
+[32mINFO    [0m Utility.customLogger:test_HomePageTitle.py:25 **** Home page title test passed ****
